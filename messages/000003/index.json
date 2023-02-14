@@ -1,0 +1,16 @@
+{
+  "attachments": [
+    {
+      "id": "1",
+      "url": "attachments/ricevuta.pdf",
+      "content_type": "application/pdf",
+      "name": "ricevuta.pdf"
+    },
+    {
+      "id": "2",
+      "url": "attachments/evento.pdf",
+      "content_type": "application/pdf",
+      "name": "evento.pdf"
+    }
+  ]
+}

@@ -23,6 +23,12 @@
           "url": "attachments/notFound.pdf",
           "content_type": "application/pdf",
           "name": "notFound.pdf"
+      },
+      {
+          "id": "5",
+          "url": "attachments/sample-64mb-pdf-file.pdf",
+          "content_type": "application/pdf",
+          "name": "sample-64mb-pdf-file.pdf"
       }
     ]
   }

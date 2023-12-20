@@ -31,6 +31,8 @@
           "name": "sample-64mb-pdf-file.pdf"
       }
     ],
-    "subject": "Welcome new user !",
-    "markdown": "# This is a markdown header to show how easily markdown can be converted to **HTML** Remember: this has to be a long text."
+    "details": {
+      "subject": "Welcome new user !",
+      "markdown": "# This is a markdown header to show how easily markdown can be converted to **HTML** Remember: this has to be a long text."
+    }
   }
